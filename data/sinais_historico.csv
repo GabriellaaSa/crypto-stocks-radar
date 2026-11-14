@@ -1144,3 +1144,18 @@ data,ticker,preco,rsi,sma_curta,sma_longa,sinais,score_momentum,leitura
 2026-11-13,WEGE3.SA,51.650001525878906,74.28571912977431,48.083499908447266,49.85913352966308,RSI sobrecomprado (74.3); Tendência de baixa (SMA curta < SMA longa),37.4,Viés de alta
 2026-11-13,^BVSP,171324.3125,18.661962157687853,182700.015625,187439.72625,RSI sobrevendido (18.7); Tendência de baixa (SMA curta < SMA longa),-80.0,Momentum forte de baixa
 2026-11-13,^GSPC,7592.39990234375,48.646625118833846,7618.15048828125,7671.181015625,Tendência de baixa (SMA curta < SMA longa),-37.4,Viés de baixa
+2026-11-14,BBAS3.SA,15.100000381469727,8.818485349173912,18.848999881744383,21.354800033569337,RSI sobrevendido (8.8); Tendência de baixa (SMA curta < SMA longa),-100.0,Momentum forte de baixa
+2026-11-14,BNB-USD,630.010009765625,27.487204274484228,700.4269287109375,731.712705078125,RSI sobrevendido (27.5); Tendência de baixa (SMA curta < SMA longa),-80.1,Momentum forte de baixa
+2026-11-14,BOVA11.SA,169.67999267578125,19.818960491734117,178.22099914550782,184.4068002319336,RSI sobrevendido (19.8); Tendência de baixa (SMA curta < SMA longa),-78.6,Momentum forte de baixa
+2026-11-14,BTC-USD,68206.046875,27.868855611115364,76583.27578125,80534.36234375,RSI sobrevendido (27.9); Tendência de baixa (SMA curta < SMA longa),-79.7,Momentum forte de baixa
+2026-11-14,ETH-USD,1927.52001953125,29.385919714306908,2216.0778259277345,2413.7091674804688,RSI sobrevendido (29.4); Tendência de baixa (SMA curta < SMA longa),-83.9,Momentum forte de baixa
+2026-11-14,HGLG11.SA,146.02000427246094,24.41185164084081,149.3192916870117,148.38839111328124,RSI sobrevendido (24.4); Tendência de alta (SMA curta > SMA longa),-37.5,Viés de baixa
+2026-11-14,ITUB4.SA,42.27000045776367,29.54933629214989,42.89746608734131,43.79270210266113,RSI sobrevendido (29.5); Tendência de baixa (SMA curta < SMA longa),-68.2,Momentum forte de baixa
+2026-11-14,IVVB11.SA,483.1499938964844,76.95506434259674,460.3249984741211,450.8629992675781,RSI sobrecomprado (77.0); Tendência de alta (SMA curta > SMA longa),75.7,Momentum forte de alta
+2026-11-14,MXRF11.SA,8.75,35.62698390534969,8.935222578048705,8.984402751922607,Tendência de baixa (SMA curta < SMA longa),-58.2,Momentum forte de baixa
+2026-11-14,PETR4.SA,45.29999923706055,12.625690561521367,51.35049991607666,50.964399871826174,RSI sobrevendido (12.6); Tendência de alta (SMA curta > SMA longa),-47.2,Momentum forte de baixa
+2026-11-14,USDBRL=X,5.640699863433838,92.96630285163066,5.337249517440796,5.200953969955444,RSI sobrecomprado (93.0); Tendência de alta (SMA curta > SMA longa),78.3,Momentum forte de alta
+2026-11-14,VALE3.SA,63.5,54.20609557442893,63.41800022125244,68.99100059509277,Tendência de baixa (SMA curta < SMA longa),-35.0,Viés de baixa
+2026-11-14,WEGE3.SA,51.310001373291016,78.94737519478895,48.19449996948242,49.893391647338866,RSI sobrecomprado (78.9); Tendência de baixa (SMA curta < SMA longa),39.9,Viés de alta
+2026-11-14,^BVSP,172457.765625,18.926433860657482,181106.68828125,187294.4153125,RSI sobrevendido (18.9); Tendência de baixa (SMA curta < SMA longa),-78.6,Momentum forte de baixa
+2026-11-14,^GSPC,7561.669921875,44.92181457907234,7613.261987304688,7667.46021484375,Tendência de baixa (SMA curta < SMA longa),-41.7,Momentum forte de baixa
